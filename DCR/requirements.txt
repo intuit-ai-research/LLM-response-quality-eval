@@ -1,0 +1,2 @@
+-r ../requirements_meta.txt
+pandas==2.2.2
