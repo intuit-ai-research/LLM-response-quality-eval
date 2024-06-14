@@ -1,0 +1,5 @@
+-r ../requirements_meta.txt
+sentence_transformers==2.7.0
+rouge-score==0.1.2
+evaluate==0.4.1
+bert-score==0.3.13
