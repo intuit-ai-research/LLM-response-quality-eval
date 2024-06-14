@@ -1,0 +1,21 @@
+# Mac
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#IDE
+.idea/
